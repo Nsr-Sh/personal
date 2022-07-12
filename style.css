@@ -73,13 +73,15 @@ p {
 
 .home .container {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 
 }
 
+.home .home-left {
+    padding-top: 10rem;
+}
+
 .home .home-right img {
-    /* width: 400px; */
     margin-right: 1rem;
 }
 
